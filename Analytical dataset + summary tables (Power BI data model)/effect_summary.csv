@@ -1,0 +1,9 @@
+metric,value
+naive_exposed_avg,25.638584070796462
+naive_unexposed_avg,15.32367816091954
+naive_diff,10.314905909876922
+adjusted_effect,3.637177980092471
+adjusted_se,0.14510145168445854
+adjusted_ci_low,3.352784360686454
+adjusted_ci_high,3.9215715994984883
+adjusted_p,1.1553815618540226e-138
